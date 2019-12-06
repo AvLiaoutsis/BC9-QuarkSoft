@@ -1,0 +1,6 @@
+D:\Projects\BootCamp\Factory\Factory\bin\Debug\AssignmentBC9Factory.exe.config
+D:\Projects\BootCamp\Factory\Factory\bin\Debug\AssignmentBC9Factory.exe
+D:\Projects\BootCamp\Factory\Factory\bin\Debug\AssignmentBC9Factory.pdb
+D:\Projects\BootCamp\Factory\Factory\obj\Debug\AssignmentBC9Factory.csprojAssemblyReference.cache
+D:\Projects\BootCamp\Factory\Factory\obj\Debug\AssignmentBC9Factory.exe
+D:\Projects\BootCamp\Factory\Factory\obj\Debug\AssignmentBC9Factory.pdb
